@@ -1,83 +1,94 @@
-const logotext = "JOHN";
+const logotext = "Bozo Yasuo";
 const meta = {
-  title: "John Doe",
+  title: "Bozo Yasuo",
   description:
-    "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    "I’m Bozo Yasuo Blockchain Dev and Full stack dev ,currently working in Tokyo",
 };
 
 const introdata = {
-  title: "I’m John Doe",
+  title: "This is Bozo Yasuo",
   animated: {
-    first: "I love coding",
+    first: "I love clean coding",
     second: "I code cool websites",
-    third: "I develop mobile apps",
+    third: "I develop crypto dapps",
   },
-  description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+  description: "開発は私の人生の一部です",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-  title: "abit about my self",
+  title: "Summary",
   aboutme:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    "This is Bozo Yasuo, Blockchain(web3 and ethers, solidity) developer living in Japan. Talented and creative crypto Defi and Dex expert.",
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
+    jobtitle: "Experienced BC development",
+    where: "Pearl Data Firm",
+    date: "2018-2021",
   },
   {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
+    jobtitle: "Talented and creative Dapps development",
+    where: "CodeComplete Inc",
+    date: "2015-2018",
+  },
+];
+
+const Educationimeline = [
+  {
+    edutitle: "Computer Engineering Waseda University",
+    where: "Shinjuku",
+    date: "2011-2015",
   },
   {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
+    edutitle: "Yamabuki High School",
+    where: "Shinjuku",
+    date: "2007-2011",
   },
 ];
 
 const skills = [
   {
-    name: "Python",
-    value: 90,
-  },
-  {
-    name: "Djano",
+    name: "Solidity",
     value: 85,
   },
   {
-    name: "Javascript",
-    value: 80,
+    name: "Web3, Ethers",
+    value: 90,
   },
   {
-    name: "React",
-    value: 60,
+    name: "Javascript, Typescript",
+    value: 70,
   },
   {
-    name: "Jquery",
+    name: "React, Vue",
+    value: 90,
+  },
+  {
+    name: "Node, python",
+    value: 85,
+  },
+  {
+    name: "DBMS (SQL, noSQL)",
     value: 85,
   },
 ];
 
 const services = [
   {
-    title: "UI & UX Design",
+    title: "Solidity Development",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "Focussed on Blockchain and Crypto-related projects with solidity PG language.",
   },
   {
-    title: "Mobile Apps",
+    title: "Web3 Integration and NFT marketplace",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "Implement with smart contract and building custom DApps on various BC maninet.",
   },
   {
-    title: "Wordpress Design",
+    title: "Website Responsive Design",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "Development of creative and smart crypto swap and exchange platform.",
   },
 ];
 
@@ -158,28 +169,31 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "name@domain.com",
-  YOUR_FONE: "(555)123-4567",
+  YOUR_EMAIL: "c.john.number@gmail.com",
+  YOUR_FONE: "+8113-056-3361 ",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    "If you have questions to ask me, please contact me via my contact info at anytime.",
   YOUR_SERVICE_ID: "service_id",
   YOUR_TEMPLATE_ID: "template_id",
   YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
-  linkedin: "https://linkedin.com",
-  twitter: "https://twitter.com",
-  youtube: "https://youtube.com",
-  twitch: "https://twitch.com",
+  github: "https://github.com/millicare",
+  telegram: "https://t.me/BY_crypto_dev",
+  skype: "https://join.skype.com/invite/yIbzllt7IySb",
+  // facebook: "https://facebook.com",
+  // linkedin: "https://linkedin.com",
+  // twitter: "https://twitter.com",
+  // youtube: "https://youtube.com",
+  // twitch: "https://twitch.com",
 };
 export {
   meta,
   dataabout,
   dataportfolio,
   worktimeline,
+  Educationimeline,
   skills,
   services,
   introdata,

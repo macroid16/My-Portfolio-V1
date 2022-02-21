@@ -2,6 +2,8 @@ import React from "react";
 import "./style.css";
 import {
   FaGithub,
+  FaTelegram,
+  FaSkype,
   FaTwitter,
   FaFacebookF,
   FaLinkedin,
@@ -25,6 +27,20 @@ export const Socialicons = (params) => {
           <li>
             <a href={socialprofils.github}>
               <FaGithub />
+            </a>
+          </li>
+        )}
+        {socialprofils.telegram && (
+          <li>
+            <a href={socialprofils.telegram}>
+              <FaTelegram />
+            </a>
+          </li>
+        )}
+        {socialprofils.skype && (
+          <li>
+            <a href={socialprofils.skype}>
+              <FaSkype />
             </a>
           </li>
         )}
