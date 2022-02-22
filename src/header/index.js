@@ -21,11 +21,11 @@ const Headermain = () => {
             {logotext}
           </Link>
           <div className="d-flex align-items-center">
-          <Themetoggle />
-          <button className="menu__button  nav_ac" onClick={handleToggle}>
-            {!isActive ? <VscClose /> : <VscGrabber />}
-          </button>
-          
+            <a href="./BozoYasuo.pdf" target='_blank'>Resume</a>
+            <Themetoggle />
+            <button className="menu__button  nav_ac" onClick={handleToggle}>
+              {!isActive ? <VscClose /> : <VscGrabber />}
+            </button>
           </div>
         </div>
 
