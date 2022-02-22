@@ -11,10 +11,10 @@
     display: inline-block;
     width: 100%;
     text-align: center;
-    margin: 0.5rem auto;
+    margin: 2rem auto;
     position: relative;
     background: var(--secondary-color);
-    padding: 6px;
+    padding: 10px;
     border: 1px solid var(--secondary-color);
     transition: 0.3s ease;
     font-size: 0;
