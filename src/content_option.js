@@ -133,7 +133,7 @@ const dataportfolio = [
 
 const contactConfig = {
   YOUR_EMAIL: "c.john.number@gmail.com",
-  YOUR_FONE: "+8113-056-3361 ",
+  // YOUR_FONE: "+8113-056-3361 ",
   description:
     "If you have questions to ask me, please contact me via my contact info at anytime.",
   YOUR_SERVICE_ID: "service_id",
