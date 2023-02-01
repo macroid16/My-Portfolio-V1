@@ -2,24 +2,24 @@ const logotext = "Bozo Yasuo";
 const meta = {
   title: "Bozo Yasuo",
   description:
-    "I’m Bozo Yasuo Blockchain Dev and Full stack dev ,currently working in Tokyo",
+    "I’m I.Q(known as Mac King)a Blockchain Dev & NFT Artist",
 };
 
 const introdata = {
-  title: "This is Bozo Yasuo",
+  title: "This is Mac King",
   animated: {
-    first: "I love clean coding",
-    second: "I code cool websites",
-    third: "I develop crypto dapps",
+    first: "I love to build",
+    second: "I build cool techs",
+    third: "I develop blockchain projects",
   },
-  description: "開発は私の人生の一部です",
+  description: "Am Mac king, a young blockchain dev based in nigeria, with overs 4years experience in Crypto, Blockchain programs, NFTs,and Defi Protocol experience and development.",
   your_img_url: "/assets/BY.png",
 };
 
 const dataabout = {
   title: "Summary",
   aboutme:
-    "This is Bozo Yasuo, Blockchain(web3 and ethers, solidity) developer living in Japan. Talented and creative crypto Defi and Dex expert.",
+    "This is Mac King, Blockchain(web3 and ethers, solidity, rusts,go,move) developer living in Nigeria. Talented and creative crypto Defi and NFT developements expert.",
 };
 const worktimeline = [
   {
@@ -36,14 +36,14 @@ const worktimeline = [
 
 const Educationimeline = [
   {
-    edutitle: "Computer Engineering Waseda University",
-    where: "Shinjuku",
-    date: "2011-2015",
+    edutitle: "Federal University of Technology Minna ",
+    where: "Naija State",
+    date: "2018-Now",
   },
   {
-    edutitle: "Yamabuki High School",
-    where: "Shinjuku",
-    date: "2007-2011",
+    edutitle: "Ataoja High School",
+    where: "Osun State",
+    date: "2014-2018",
   },
 ];
 
@@ -51,6 +51,14 @@ const skills = [
   {
     name: "Solidity",
     value: 85,
+  },
+  {
+    name: "Move",
+    value: 50,
+  },
+  {
+    name: "NFT",
+    value: 90,
   },
   {
     name: "Web3, Ethers",
@@ -62,7 +70,7 @@ const skills = [
   },
   {
     name: "React, Vue",
-    value: 90,
+    value: 70,
   },
   {
     name: "Node, python",
@@ -76,19 +84,39 @@ const skills = [
 
 const services = [
   {
-    title: "Solidity Development",
+    title: "Smart Contract(Solidity Development)",
     description:
       "Focussed on Blockchain and Crypto-related projects with solidity PG language.",
   },
   {
     title: "Web3 Integration and NFT marketplace",
     description:
-      "Implement with smart contract and building custom DApps on various BC maninet.",
+      "Implement smart contract and building custom DApps,AMM Dex, Staking dapp on various Blockchain.",
+  },
+  {
+    title: "NFT Art & Mint Dapp Development",
+    description:
+      "Can single handly create, design and generate bulk nfts collections with algorithm. Tools Used: Corel, Photoshop, Blender 3D, Hashlips Engine",
   },
   {
     title: "Website Responsive Design",
     description:
       "Development of creative and smart crypto swap and exchange platform.",
+  },
+  {
+    title: "Market Strategist",
+    description:
+      "Development of creative marketing strategies & advice for blockchain projects",
+  },
+  {
+    title: "Community Manager/intern",
+    description:
+      "Management & Establishment of Blockchain projects,crypto & nfts community",
+  },
+  {
+    title: "Blockchain Specilize(ALL EVM)",
+    description:
+      "Ethereum, Polygon,Aptos,Fantom,Solana,Alogrand,Binance chain,Hedera,Arbitrum,Avalanche,DogeChain,CoreDAO,Cardano,Sui,Starknet,Optimism,Zksys,Cronos,Canto,KCC,Oasis,Kava,Evmos",
   },
 ];
 
@@ -132,9 +160,8 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "c.john.number@gmail.com",
-  // YOUR_FONE: "+8113-056-3361 ",
-  description:
+  YOUR_EMAIL: "mackingzee@gmail.com",
+  // YOUR_FONE: "+234-708-907-1962
     "If you have questions to ask me, please contact me via my contact info at anytime.",
   YOUR_SERVICE_ID: "service_id",
   YOUR_TEMPLATE_ID: "template_id",
@@ -142,11 +169,11 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com/millicare",
-  telegram: "https://t.me/BY_crypto_dev",
-  skype: "https://join.skype.com/invite/yIbzllt7IySb",
-  // facebook: "https://facebook.com",
-  // linkedin: "https://linkedin.com",
+  github: "https://github.com/macroid16",
+  telegram: "https://t.me/macking16",
+  skype: "https://macking.skype.com/invite/yIbzllt7IySb",
+  // facebook: "https://facebook.com/ibidunquyum",
+  // linkedin: "hhttps://www.linkedin.com/in/ibidun-quyyum-s-h-i-b7b2871b1/",
   // twitter: "https://twitter.com",
   // youtube: "https://youtube.com",
   // twitch: "https://twitch.com",
